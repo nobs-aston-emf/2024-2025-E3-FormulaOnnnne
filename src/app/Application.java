@@ -35,9 +35,18 @@ public class Application {
 
 
         // compterNombrePneusEnReserveDeType() et afficher le nombre de pneus en réserve 
-        //de type DUR_BLANC
+        // de type DUR_BLANC
 
 
+
+        // Créer les 3 pneus et ajout le lot de pneus pour le pilote et afficher réussi ou échoué.
+
+
+
+        // Supprimer les pneus de pression inférieure à 1.4 et afficher le nombre de pneus supprimés
+
+
+        
         // ---------------------------------------------------------------------------------------
         
 

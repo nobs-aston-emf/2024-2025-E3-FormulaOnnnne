@@ -62,29 +62,6 @@ public class Pilote {
         this.nombrePodiums = nombrePodiums;
     }
 
-    public boolean deposerPneuEnReserve(Pneu pneu) {
-
-    }
-
-    public boolean retirerPneuEnReserve(Pneu pneu) {
-    }
-
-    public int getNombrePneusEnReserve() {
-
-    }
-
-    public Pneu[] getPneusEnReserveSansTrous() {
-
-    }
-
-    public String calculerPressionMoyennePneusEnReserve() {
-
-    }
-
-    public int compterNombrePneusEnReserveDeType(TypePneu type) {
-
-    }
-
     @Override
     public String toString() {
 
