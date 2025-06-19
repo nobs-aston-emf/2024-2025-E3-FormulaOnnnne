@@ -9,25 +9,29 @@ public class Application {
         // ---------------------------------------------------------------------------------------
 
         // ---------------------------------------------------------------------------------------
-        // Etape 2 : Création d'un pilote de Formule 1 et afficher ses informations
+        // Etape 2 : Afficher la voiture
         // ---------------------------------------------------------------------------------------
 
         // ---------------------------------------------------------------------------------------
-        // Etape 3 : Afficher le Pilote
+        // Etape 3 : Création d'un pilote de Formule 1 et afficher ses informations
         // ---------------------------------------------------------------------------------------
 
         // ---------------------------------------------------------------------------------------
-        // Etape 4 : Tests des méthodes de la classe Pilote
+        // Etape 4 : Afficher le Pilote
+        // ---------------------------------------------------------------------------------------
+
+        // ---------------------------------------------------------------------------------------
+        // Etape 5 : Tests des méthodes de la classe Pilote
         // ---------------------------------------------------------------------------------------
         // deposerPneuEnReserve() 5 fois de types différents
 
-        // retirerPneuEnReserve() 1 fois et l'afficher
+        // retirerPneuEnReserve() de type TENDRE_ROUGE et l'afficher
 
         // getNombrePneusEnReserve() et afficher le nombre de pneus en réserve
 
         // getPneusEnReserveSansTrous() et afficher les pneus en réserve
 
-        // afficherPressionMoyennePneusEnReserve() et afficher la pression moyenne des
+        // pressionMoyenneDesPneusEnReserveFormatee() et afficher la pression moyenne des
         // pneus
 
         // compterNombrePneusEnReserveDeType() et afficher le nombre de pneus en réserve
